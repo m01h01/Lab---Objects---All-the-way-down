@@ -28,7 +28,7 @@
                 new CompartmentType(CompartmentType.Compartment.CheckBook));
             Console.WriteLine(wal2 + "\n");
 
-            //Adding to company inventory
+            //Adding those watches to company inventory
             McKoy.AddInventory(wal1);
             McKoy.AddInventory(wal2);
 
